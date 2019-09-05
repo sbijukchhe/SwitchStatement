@@ -53,7 +53,7 @@ public class MySwitch {
                     System.out.println("Sorry. You entered invalid number of days");
 
             }
-            System.out.println("Please enter in the number of days..");
+            System.out.println("\nPlease enter in the number of days..");
             System.out.println("Please enter 0 to exit");
             numDays = input.nextInt();
         }
